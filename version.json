@@ -1,5 +1,81 @@
 {
   "last_update_date" : "2025/06/23",
-  "released_folder" : "",
-  ""
+  "released_folder" : "https://github.com/helen1020912/building_searching/releases/tag/latest/",
+  "assets" : [
+    {
+      "name" : "main.exe",
+      "version" : "1.0",
+      "target" : "./"
+    },
+    {
+      "name" : "programs.exe",
+      "version" : "1.0",
+      "target" : "./"
+    },
+    {
+      "name" : "icon.png",
+      "version" : "1.0",
+      "target" : "./"
+    },
+    {
+      "name" : "Changhua_v2.0.exe",
+      "version" : "2.0",
+      "target" : "./programs/"
+    },
+    {
+      "name" : "ChiayiCity.exe",
+      "version" : "1.0",
+      "target" : "./programs/"
+    },
+    {
+      "name" : "HsinchuCity_v2.0.1.exe",
+      "version" : "2.0.1",
+      "target" : "./programs/"
+    },
+    {
+      "name" : "HsinchuCounty_v2.0.exe",
+      "version" : "2.0",
+      "target" : "./programs/"
+    },
+    {
+      "name" : "Kaohsiung_v1.0.1.exe",
+      "version" : "1.0.1",
+      "target" : "./programs/"
+    },
+    {
+      "name" : "Nantou.exe",
+      "version" : "1.0",
+      "target" : "./programs/"
+    },
+    {
+      "name" : "NewTaipei_v1.0.2.exe",
+      "version" : "1.0.2",
+      "target" : "./programs/"
+    },
+    {
+      "name" : "Taichung_v2.0.exe",
+      "version" : "2.0",
+      "target" : "./programs/"
+    },
+    {
+      "name" : "Tainan.exe",
+      "version" : "1.0",
+      "target" : "./programs/"
+    },
+    {
+      "name" : "Taipei.exe",
+      "version" : "1.0",
+      "target" : "./programs/"
+    },
+    {
+      "name" : "Taoyuan_v2.0.exe",
+      "version" : "2.0",
+      "target" : "./programs/"
+    }
+
+
+
+
+    
+  ]
 }
