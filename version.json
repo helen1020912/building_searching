@@ -8,7 +8,7 @@
       "target" : "./"
     },
     {
-      "name" : "programs.exe",
+      "name" : "programs.json",
       "version" : "1.0",
       "target" : "./"
     },
