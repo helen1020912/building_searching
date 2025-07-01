@@ -18,7 +18,7 @@
       "target" : "./"
     },
     {
-      "name" : "Changhua_v2.0.exe",
+      "name" : "Changhua.exe",
       "version" : "2.0",
       "target" : "./programs/"
     },
@@ -28,17 +28,17 @@
       "target" : "./programs/"
     },
     {
-      "name" : "HsinchuCity_v2.0.1.exe",
+      "name" : "HsinchuCity.exe",
       "version" : "2.0.1",
       "target" : "./programs/"
     },
     {
-      "name" : "HsinchuCounty_v2.0.exe",
+      "name" : "HsinchuCounty.exe",
       "version" : "2.0",
       "target" : "./programs/"
     },
     {
-      "name" : "Kaohsiung_v1.0.1.exe",
+      "name" : "Kaohsiung.exe",
       "version" : "1.0.1",
       "target" : "./programs/"
     },
@@ -48,12 +48,12 @@
       "target" : "./programs/"
     },
     {
-      "name" : "NewTaipei_v1.0.2.exe",
+      "name" : "NewTaipei.exe",
       "version" : "1.0.2",
       "target" : "./programs/"
     },
     {
-      "name" : "Taichung_v2.0.exe",
+      "name" : "Taichung.exe",
       "version" : "2.0",
       "target" : "./programs/"
     },
@@ -68,7 +68,7 @@
       "target" : "./programs/"
     },
     {
-      "name" : "Taoyuan_v2.0.exe",
+      "name" : "Taoyuan.exe",
       "version" : "2.0",
       "target" : "./programs/"
     }
